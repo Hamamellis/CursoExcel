@@ -1,7 +1,7 @@
 
 WAGNER@WagnerBarros MINGW64 /c/GIT - GITHUB (master)
 $ git clone https://github.com/Hamamellis/CursoExcel.git
-Cloning into 'CursoExcel'...
+Cloning into 'CursoExcel'... -- APÓS CRIAOS NO GITHUB O REPOSITORIO (PASTA) copiamos o endereço dele e clonamos para a nossa máquina...
 remote: Enumerating objects: 17, done.
 remote: Counting objects: 100% (17/17), done.
 remote: Compressing objects: 100% (16/16), done.
@@ -52,6 +52,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+--SUBIMOS UM NOVO ARQUIVO DIRETO NO GITHUB, DIFERENTE NO REPOSITÓRIO LOCAL, ENTÃO FIZEMOS UM GIT PULL PARA ATUALIZAR NA MÁQUINA
 WAGNER@WagnerBarros MINGW64 /c/GIT - GITHUB/CursoExcel (main)
 $ git pull
 remote: Enumerating objects: 12, done.
