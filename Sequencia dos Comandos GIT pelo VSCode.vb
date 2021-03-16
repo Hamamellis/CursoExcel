@@ -1,7 +1,7 @@
 
 WAGNER@WagnerBarros MINGW64 /c/GIT - GITHUB (master)
 $ git clone https://github.com/Hamamellis/CursoExcel.git
-Cloning into 'CursoExcel'... -- APÓS CRIAOS NO GITHUB O REPOSITORIO (PASTA) copiamos o endereço dele e clonamos para a nossa máquina...
+Cloning into 'CursoExcel'... -- APÓS CRIARMOS NO GITHUB O REPOSITORIO (PASTA) copiamos o endereço dele e clonamos para a nossa máquina...
 remote: Enumerating objects: 17, done.
 remote: Counting objects: 100% (17/17), done.
 remote: Compressing objects: 100% (16/16), done.
